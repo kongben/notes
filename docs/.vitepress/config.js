@@ -2,7 +2,7 @@ export default {
     lang: 'zh-CN',
     title: 'markdown',
     description: 'a markdown of notes ',
-
+    base: '/notes/',
     themeConfig: {
         sidebar: {
             '/css-secrets/': getGuideSidebar(),
