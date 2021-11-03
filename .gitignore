@@ -4,6 +4,7 @@
 .temp
 /node_modules
 /npm-debug.log*
+/docs/.vitepress/dist
 /yarn-error.log
 /yarn.lock
 /package-lock.json
